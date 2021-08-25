@@ -18,6 +18,10 @@ CPU -             Full Speed (si es que el cabezal de la bomba del AIO esta en e
 
 FAN4 -            Custom %45 (En las dos temperaturas (60 y 70))
 
+# Opcional
+
+PBO - Enable si tienes buen enfriamiento / Disable si es que no.
+
 # OS 
 
 Particion en GPT & Instalacion de windows en UEFI MODE
