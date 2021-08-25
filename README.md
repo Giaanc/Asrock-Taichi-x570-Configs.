@@ -10,6 +10,8 @@ C-States Global - Disable
 
 XMP -             Enable ( tRC 45* en Timings ) *Depende de la RAM*
 
+AMD fTPM -        Disable (si es que estas en windows 10) (en windows 11, dependiendo de si parcheaste la instalacion se Activa, en el caso que no Desactivar)
+
 Fan Settings:
 
 CPU -             Full Speed (si es que el cabezal de la bomba del AIO esta en el cabezal CPU_FAN)
