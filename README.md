@@ -14,7 +14,7 @@ Fan Settings:
 
 CPU -             Full Speed (si es que el cabezal de la bomba del AIO esta en el cabezal CPU_FAN)
 
-FAN4 -            Custom %45 (En las dos temperaturas (60 y 70)
+FAN4 -            Custom %45 (En las dos temperaturas (60 y 70))
 
 # OS 
 
