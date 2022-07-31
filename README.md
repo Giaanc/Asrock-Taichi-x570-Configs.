@@ -18,6 +18,7 @@ SVT AKA CPU Virtualizacion : Disable (aumenta el rendimiento L3 entre otros), la
 Ejemplo:
 
 con cpu virtualización: https://gyazo.com/bc4ff93979c88d837c772fa51bd721a7
+
 sin cpu virtualizacion: https://gyazo.com/0f7cfe932fdb37460fde1af20be078b0
 
 
