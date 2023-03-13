@@ -36,3 +36,12 @@ PBO - Enable si tienes buen enfriamiento / Disable si es que no.
 # OS 
 
 Particion en GPT & Instalacion de windows en UEFI MODE
+
+# Core Parking
+
+ir a Regedit a la carpeta
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\0cc5b647-c1df-4637-891a-dec35c318583
+
+en el DWORD 'Attributes' y lo setean en 0, posterior en el plan de energia van a editarlo y podran ver el estacionado de cores (o core parking) sin programas externos.
+no se recomienda bajarlo a menos del 25%, para CCD0 de amd es 50%
